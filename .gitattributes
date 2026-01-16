@@ -1,0 +1,2 @@
+# 下面的文件用lf, 而不是crlf
+*.sh text eol=lf

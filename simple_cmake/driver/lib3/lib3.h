@@ -1,0 +1,1 @@
+void lib3Func1(int indent);

@@ -1,0 +1,1 @@
+void lib2Func1(int indent);
